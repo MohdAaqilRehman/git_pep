@@ -1,2 +1,2 @@
 console.log(" c");
-console.log("this is a non mergin conflict");
+console.log("this is a not a merging conflict");
